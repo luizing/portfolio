@@ -1,0 +1,16 @@
+/*Estilização dos Links*/
+a{
+    color: black;
+}
+
+a:hover{
+    color: cadetblue;
+}
+
+/*Contatos*/
+.icon{
+    float: left;
+    height: 30px;
+    display: inline-block;
+    padding-left: 10px;
+}

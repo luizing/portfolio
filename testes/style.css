@@ -1,0 +1,70 @@
+html {
+    background-color:rgb(42, 157, 143)
+}
+
+h1{
+    color: rgb(0, 180, 216);
+    padding-top: 20px;
+    font-size: 40px;
+    font-family:'Trebuchet MS','Trebuchet MS','Trebuchet MS';
+    
+}
+
+.subtitle{
+    margin-top: 10px;
+    font-size: 20px;
+    font-style:italic;
+    font-weight:400;
+    color: rgb(0, 180, 216);
+}
+
+header{
+    background-color: rgb(49, 71, 143);
+    height: 140px;
+}
+
+h2{
+    background-color: rgb(2, 62, 138);
+    height: 50px;
+    width: 200px;
+    
+   
+}
+
+.title1{
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(101, 119, 180);
+}
+
+footer{
+    background-color: rgb(49, 71, 143);
+    height: 200px;
+}
+
+a{
+    color: rgb(101, 119, 180);
+}
+
+.email{
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.linkedin{
+    
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.github{
+    float: left;
+    text-decoration: none;
+    list-style-type: none;
+    display:initial;
+}
+
+.contato{
+    padding-left: 30px;
+}

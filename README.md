@@ -1,2 +1,2 @@
-# portfolio
-Compilado dos meus principais projetos
+# Portfolio
+Compilado dos meus principais projetos até o momento.
